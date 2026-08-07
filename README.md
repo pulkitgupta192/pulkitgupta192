@@ -19,22 +19,6 @@ Key areas of work:
 
 ## Current Focus
 
-### EffortIQ
-AI-powered estimation platform designed to improve planning accuracy and delivery predictability.
-
-- Reduces manual effort in estimation  
-- Improves sprint reliability  
-- Integrates with Jira workflows  
-
----
-
-### AQS Inspect
-AI-based code review and PR analysis platform for engineering teams.
-
-- Supports GitHub and Azure DevOps  
-- Automates review insights  
-- Improves developer efficiency and code quality  
-
 ---
 
 ## Tech Stack
